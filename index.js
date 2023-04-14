@@ -1,5 +1,6 @@
     
-    const base_url = "http://localhost:3000/films";
+    const base_url = `https://jeromesaka.github.io/code-challenge-3/db.json`
+    //const base_url = "http://localhost:3000/films";
     const film_endpoint = `${base_url}`;
 // create an empty json object to hold films
 
