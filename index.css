@@ -1,0 +1,7 @@
+.wrapper{
+    width: 100% !important; display: flex; flex-direction: row
+}
+
+.col50 {
+    width: 50% !important;
+}
