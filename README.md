@@ -24,7 +24,7 @@ Open html file on the browser to view project
 - index.css - styling html
 # Live link to code
 
-
+https://jeromesaka.github.io/code-challenge-3/
 
 # Authors
 
